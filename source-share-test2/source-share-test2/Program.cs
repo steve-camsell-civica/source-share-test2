@@ -10,6 +10,7 @@ namespace source_share_test2
     {
         static void Main(string[] args)
         {
+            // Stu's comment
         }
     }
 }
